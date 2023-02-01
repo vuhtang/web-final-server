@@ -1,4 +1,4 @@
-package com.vuhtang.lesha;
+package com.vuhtang.lesha.model;
 
 import lombok.*;
 
